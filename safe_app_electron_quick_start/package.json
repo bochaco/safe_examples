@@ -29,6 +29,7 @@
     "electron": "^1.8.4"
   },
   "dependencies": {
+    "@maidsafe/safe-node-app": "https://github.com/joshuef/safe_app_nodejs.git#0305e41509130b11a9285d68b7f597fe7214cf19",
     "angular": "^1.6.9"
   }
 }
